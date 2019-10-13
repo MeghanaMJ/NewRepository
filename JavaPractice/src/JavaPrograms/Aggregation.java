@@ -46,6 +46,7 @@ public class Aggregation {
 
 		e.display();
 		e2.display();
+		System.out.println("Successful");
 
 	}
 
